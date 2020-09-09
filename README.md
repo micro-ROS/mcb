@@ -15,3 +15,8 @@ Main features of the board are listed below:
   * SWO trace output decoding
 * All trace pins decoding (D0, D1, D2, D3 and CLK)
 * Easy configuration on jumpers
+
+# LICENSE
+
+mcb is to be open-sourced under the Apache-2.0 license. See the
+[LICENSE](./LICENSE.md) file for details.
