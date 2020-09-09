@@ -19,4 +19,4 @@ Main features of the board are listed below:
 # LICENSE
 
 mcb is to be open-sourced under the Apache-2.0 license. See the
-[LICENSE](./LICENSE.md) file for details.
+[LICENSE](./LICENSE) file for details.
